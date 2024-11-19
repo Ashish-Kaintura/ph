@@ -120,7 +120,9 @@ export default function page() {
                 <Link href="/the-best-middle-of-mountain-resor">
                   <h2 className="mt-4 text-blue-600 hover:underline">
                     Read More
-                  </h2>
+                  </h2> 
+                  
+                  {/* wfw */}
                 </Link>
               </div>
             </div>
