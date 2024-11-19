@@ -2,7 +2,7 @@
 
 import Aboutmeta from "../_Components/Aboutmeta";
 
-export default function Page() {
+export default function Pages() {
   return (
     <>
       <section>
