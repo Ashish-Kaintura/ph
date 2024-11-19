@@ -1,6 +1,6 @@
 // src/app/about-punarnava/page.js
 
-import Aboutmeta from "../_Components/aboutmeta";
+import Aboutmeta from "../_Components/Aboutmeta";
 
 export default function Page() {
   return (
